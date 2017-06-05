@@ -1,4 +1,4 @@
-package indi.zhuyst.utils;
+package indi.zhuyst.dbutilslearn.utils;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.apache.commons.dbutils.QueryRunner;

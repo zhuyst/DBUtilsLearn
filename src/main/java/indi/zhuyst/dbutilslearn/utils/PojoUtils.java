@@ -1,6 +1,6 @@
-package indi.zhuyst.utils;
+package indi.zhuyst.dbutilslearn.utils;
 
-import indi.zhuyst.enums.SqlEnum;
+import indi.zhuyst.dbutilslearn.enums.SqlEnum;
 
 import java.lang.reflect.Field;
 

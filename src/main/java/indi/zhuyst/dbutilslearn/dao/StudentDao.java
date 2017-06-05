@@ -1,9 +1,9 @@
-package indi.zhuyst.dao;
+package indi.zhuyst.dbutilslearn.dao;
 
-import indi.zhuyst.enums.SqlEnum;
-import indi.zhuyst.pojo.Student;
-import indi.zhuyst.utils.JDBCUtils;
-import indi.zhuyst.utils.PojoUtils;
+import indi.zhuyst.dbutilslearn.enums.SqlEnum;
+import indi.zhuyst.dbutilslearn.pojo.Student;
+import indi.zhuyst.dbutilslearn.utils.JDBCUtils;
+import indi.zhuyst.dbutilslearn.utils.PojoUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;

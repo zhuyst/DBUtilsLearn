@@ -1,4 +1,4 @@
-package indi.zhuyst.enums;
+package indi.zhuyst.dbutilslearn.enums;
 
 /**
  * Created by zhuyst on 2017/6/5.

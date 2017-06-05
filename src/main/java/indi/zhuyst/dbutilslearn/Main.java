@@ -1,7 +1,7 @@
-package indi.zhuyst;
+package indi.zhuyst.dbutilslearn;
 
-import indi.zhuyst.dao.StudentDao;
-import indi.zhuyst.pojo.Student;
+import indi.zhuyst.dbutilslearn.dao.StudentDao;
+import indi.zhuyst.dbutilslearn.pojo.Student;
 
 import java.sql.SQLException;
 

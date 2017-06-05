@@ -1,4 +1,4 @@
-package indi.zhuyst.pojo;
+package indi.zhuyst.dbutilslearn.pojo;
 
 /**
  * Created by zhuyst on 2017/5/31.
